@@ -27,7 +27,7 @@ background-color: black;
 grid-area:m;
 }
 .content{
-background-color: lightblue;/*#DCD0C0;*/
+background-color: yellow;/*#DCD0C0;*/
 grid-area:c;
 padding: 30px;
 }
